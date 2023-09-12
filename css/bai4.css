@@ -1,0 +1,23 @@
+body {
+    margin: 20px;
+    padding: 20px;
+    border: 0;
+    font-size: 100%;
+    box-sizing: border-box;
+
+
+    color: #008888;
+    background-image: url(../assets/image/Bai04.jpg);
+    background-repeat: round;
+}
+
+h2 {
+    text-align: center;
+}
+
+.first {
+    color: white;
+    background-color: #339999;
+    font-style: oblique;
+    font-weight: bold;
+}

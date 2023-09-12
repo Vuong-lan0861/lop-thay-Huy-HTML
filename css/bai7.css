@@ -1,0 +1,31 @@
+h2{
+    text-align: center;
+    color: rgb(242, 95, 119);
+}
+.content{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+
+.title{
+    background-color: rgb(241, 94, 118);
+    width: 70px;
+    color: white;
+}
+
+.ul__first{
+    list-style-type: square;
+}
+
+hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.copyRight{
+margin-top: 30px;
+list-style-type: none;
+background-color: pink;
+}

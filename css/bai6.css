@@ -1,0 +1,31 @@
+h2{
+    text-align: center;
+    color: orange;
+    border-style: double;
+}
+.first{
+    margin-left: auto;
+}
+
+.k{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: brown;
+}
+.BenThuongHAi{
+    background-color: rgb(255, 111, 0);
+    text-align: right;
+    color: white;
+    font-size: 20px;
+}
+.lastParagraph{
+    margin-right: auto;
+}
+
+.l{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: brown;
+}

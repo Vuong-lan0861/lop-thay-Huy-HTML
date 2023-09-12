@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+    color: #006600;
+}
+
+.request {
+    text-decoration-line: underline;
+    color: #0000FF;
+}
+
+p {
+    font-weight: bold;
+}
+
+.content {
+    text-align: center;
+}
+
+.content__poem {
+    font-weight: bold;
+    color: #FF3399;
+    background-color: #FECFFD;
+
+}
+
+hr{
+    width: 197px;
+}
+
+.content__poetic {
+    background-color: #FFFFCC;
+    font-style: oblique;
+}
+
+.firstVerse {
+    color: #0000FF;
+}
+
+.middleVerse {
+    color: orange;
+}
+
+.finalVerse {
+    color: green;
+}

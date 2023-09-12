@@ -1,0 +1,35 @@
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFEDCA;
+    padding: 30px;
+}
+
+img {
+    margin-right: 50px;
+    height: 230px;
+}
+
+h1{
+    color: rgb(255, 123, 0);
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid #ca0b0b;
+}
+
+th{
+background-color: #CC6600;
+color:#FFFFFF;
+border: 1px solid #e80f0f;
+}
+
+td {
+    border: 1px solid #e80f0f;   
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color:white;}

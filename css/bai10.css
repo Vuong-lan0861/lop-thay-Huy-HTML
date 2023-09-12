@@ -1,0 +1,47 @@
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.star {
+  width: 100%;
+  text-align: end;
+  background-color: red;
+  color: white;
+  font-weight: 5px;
+  font-size: 20px;
+}
+
+.end{
+  width: 100%;
+  text-align: center;
+  background-color: #FFBBBB;
+  color: #FF0000;
+  font-size: 28px;
+  font-weight: 5px;
+}
+
+.list{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.gach{
+  width: 10px;
+  height: 10px;
+  border-color: brown;
+  border-width: 2px;
+  margin: 0;
+  display: inline-block;
+}
+.sp{
+  width: 150px;
+  display: inline-block;
+}
+
+.table__right{
+transform: translateY(-45px);
+}
